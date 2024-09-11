@@ -2,7 +2,7 @@
 Bingo online dual player game in NodeJS.
 
 ## Live Demo
-https://bingo-tawny-seven.vercel.app/
+https://bingo-multiplayer-mcs6.vercel.app/
 
 ## Instructions to run
 

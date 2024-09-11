@@ -1,0 +1,19 @@
+{
+  "name": "Bingo",
+  "version": "1.0.0",
+  "description": "Bingo online dual player game in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "nodemon index.js"
+  },
+  "author": "Robins Aryan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "socket.io": "^3.0.4"
+  }
+}

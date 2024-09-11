@@ -147,6 +147,7 @@
         gObj.myChance = false;
         putData(gObj);
         socket.emit("cutNum", { num: n, type: TYPE, code: gObj.gameCode }); // both
+        console.log(code: gObj.gameCode);
         $("#trnStts").html(`${gObj.pName}'s Turn`);
         checkBB();
       }
